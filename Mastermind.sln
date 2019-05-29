@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind", "Mastermind\Mastermind.csproj", "{CFF5C5C7-29C6-4E30-BB91-D8C33BE0E5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.Tests", "Mastermind.Tests\Mastermind.Tests.csproj", "{EFE3ECB1-A287-4913-8C86-05CC61E134DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF5C5C7-29C6-4E30-BB91-D8C33BE0E5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF5C5C7-29C6-4E30-BB91-D8C33BE0E5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF5C5C7-29C6-4E30-BB91-D8C33BE0E5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF5C5C7-29C6-4E30-BB91-D8C33BE0E5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE3ECB1-A287-4913-8C86-05CC61E134DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE3ECB1-A287-4913-8C86-05CC61E134DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE3ECB1-A287-4913-8C86-05CC61E134DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE3ECB1-A287-4913-8C86-05CC61E134DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
